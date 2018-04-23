@@ -1,0 +1,17 @@
+
+*.json
+
+*.md
+
+*.editorconfig
+**/.editorconfig
+**/*/.editorconfig
+
+*.idea
+**/.idea
+node_modules
+node_modules/
+
+hooks
+
+build
